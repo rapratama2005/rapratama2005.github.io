@@ -46,7 +46,7 @@ body {
 
 .subheader {
     padding: 10px;
-    background: #818181;
+    background: #929292;
     text-align: center;
     color: white;
 }
@@ -57,7 +57,7 @@ body {
 .footer {
     padding: 20px;
     text-align: center;
-    background: #5e5d5d;
+    background: #929292;
     margin-top: 20px;
   }
   .footer a {
@@ -67,7 +67,7 @@ body {
     text-decoration: none; /* Remove underline */ 
   }
 .fakeimg {
-    background-color: #818181;
+    background-color: #949494;
 }
 .card {
     background-color: rgb(211, 211, 211);
