@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-    padding: 15px; /* some padding */
+    padding: 5px; /* some padding */
     overflow: hidden;
     text-align: center; /* center the text */
     background: #5e5d5d; /* green background */
@@ -29,7 +29,7 @@ body {
     display: block; /* Change the display to block, for responsive reasons (see below) */
     color: white; /* White text color */
     text-align: center; /* Center the text */
-    padding: 12px 20px; /* Add some padding */
+    padding: 12px 15px; /* Add some padding */
     text-decoration: none; /* Remove underline */
   }
   
